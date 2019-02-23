@@ -1,0 +1,28 @@
+/*.mdl-layout__header-row {
+  padding: 0 40px;
+}
+
+.mdl-layout.has-drawer .mdl-layout__header-row {
+  padding: 0 40px 0 80px;
+}
+.mid-header{
+  background-color: #fff;
+}
+.mdl-layout__header-row .mdl-navigation__link {
+  color: #000;
+}
+.banner{
+  background-image: url('../images/im1.jpg');
+}
+.mdc-button{
+  background-color: #fff !important;
+}*/
+/*.header-mid{
+  background-color: #fff;
+}*/
+.content{
+  text-align: center;
+}
+.gd{
+  margin-left: 180px !important;
+}
